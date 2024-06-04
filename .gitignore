@@ -1,0 +1,5 @@
+# ignore ALL .egg-info files
+*.egg-info
+
+# ignore ALL files in ANY directory named other
+other/
